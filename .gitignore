@@ -1,0 +1,40 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.user
+*.suo
+
+# Secrets / local env
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.mobileprovision
+GoogleService-Info.plist
+**/AuthKey_*.p8
+
+# Dependencies / build
+node_modules/
+Pods/
+DerivedData/
+build/
+dist/
+*.xcuserdata/
+*.xcworkspace/xcuserdata/
+.gradle/
+unityLibrary/
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+*.csproj.user
+
+# Large / generated
+*.log
+*.tmp
+.cache/

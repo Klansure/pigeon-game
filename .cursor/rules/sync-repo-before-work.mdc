@@ -1,0 +1,19 @@
+---
+description: 开工前先同步 GitHub 仓库，再了解现状后动手
+alwaysApply: true
+---
+
+# 开工先同步仓库
+
+本项目与研发团队通过 GitHub 协同：https://github.com/sleep-go/pigeon-game
+
+## 每次开工（改代码 / 改规格 / 答复研发前）
+
+1. **先同步**：`git fetch` + `git pull`（或 rebase 到跟踪分支），确认本地与 `origin` 一致。  
+2. **再了解**：看近期 commit、`AGENTS.md`、相关 `docs/`、未合并分支或对方改动。  
+3. **再动手**：基于最新仓库内容工作；避免在过期本地副本上改玩法或改代码。
+
+## 推送
+
+- 本地有策划/文档/约定变更且用户要求入库时，提交并推送到 `origin`。  
+- 勿强制推送主分支，除非用户明确要求。
