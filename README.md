@@ -4,7 +4,8 @@ iOS 向数字赛鸽养成与轻竞技项目。策划规格与研发通过本仓�
 
 ## 仓库
 
-https://github.com/sleep-go/pigeon-game
+- **当前可写远程（已推送）**：https://github.com/Klansure/pigeon-game  
+- **目标协同地址**：https://github.com/sleep-go/pigeon-game（已存在；待给本机 Git 账号写权限或切换 `sleep-go` 登录后迁入）
 
 ## 协作
 

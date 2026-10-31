@@ -7,7 +7,8 @@
 
 ## 远程仓库
 
-- GitHub：https://github.com/sleep-go/pigeon-game  
+- 当前 origin：https://github.com/Klansure/pigeon-game（已推送 main）  
+- 目标地址：https://github.com/sleep-go/pigeon-game（仓库已存在；需 Collaborator 写权限或 `sleep-go` 凭据后再改 remote 推送）  
 - **每次开工前**：先 `git pull` 同步，阅读近期变更与文档，再开始策划或开发协作。
 
 ## 文档真源
